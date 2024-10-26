@@ -1,1 +1,3 @@
 # Cake_shop-Database----MYSQL
+
+The Cake Shop database is a comprehensive system designed to manage inventory, products, orders, payments, and employee data. It includes tables for cakes, pastries, and decorations, each linked to an inventory table that tracks stock levels and reorder needs. Customer and order management are streamlined with linked tables for orders, order details, and payments, ensuring accurate tracking of sales and payment statuses. Employee data is integrated across orders, payments, and deliveries, enabling effective tracking of roles and responsibilities. This structure ensures smooth, organized operations and provides valuable insights into sales and inventory trends.
